@@ -108,10 +108,6 @@ Responsive UI Development
   ❦ ───────────────────────────────────────── ❦
 </p>
 
-<p align="center">
-  ❦ ───────────────────────────────────────── ❦
-</p>
-
 <h2 align="center">Electronics, Embedded Systems & AI Hardware</h2>
 
 <table>
