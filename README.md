@@ -64,11 +64,13 @@ to AI-powered web applications and full-stack products.
 
 <h2 align="center">Two Worlds I Build In</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<div align="center">
 
-### Electronics & Intelligent Hardware
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+<h3>Electronics & Intelligent Hardware</h3>
 
 FPGA Design  
 Embedded Systems  
@@ -82,9 +84,9 @@ Vivado Design Suite
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
-### Software & AI
+<h3>Software & AI</h3>
 
 React and Next.js  
 Spring Boot  
@@ -97,8 +99,14 @@ OCR and Voice Interfaces
 Responsive UI Development  
 
 </td>
-</tr>
+  </tr>
 </table>
+
+</div>
+
+<p align="center">
+  ❦ ───────────────────────────────────────── ❦
+</p>
 
 <p align="center">
   ❦ ───────────────────────────────────────── ❦
