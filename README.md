@@ -67,108 +67,218 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%">
 </p>
 
-<h2 align="center">✦ Featured Projects</h2>
+<h2 align="center">✦ Software Projects</h2>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
+
 <td width="50%" align="center" valign="top">
-<h3>FPGA-Based Leukemia Cell Classification</h3>
-<p align="center">Designed a CNN-inspired FPGA architecture for leukemia-cell classification using HDL and Vivado.</p>
-<p align="center"><b>FPGA · HDL · Vivado · CNN Architecture</b></p>
+
+<h3>✨ SlayIt</h3>
+
+AI-powered habit tracking application with authentication,
+streak monitoring and intelligent productivity features.
+
+<br>
+
+<b>React.js · Spring Boot · REST APIs</b>
+
+<br><br>
+
+<a href="https://slayit-project.vercel.app/">
+<img src="https://img.shields.io/badge/▲_LIVE_DEMO-D66B91?style=for-the-badge&logoColor=white">
+</a>
+
 </td>
+
 <td width="50%" align="center" valign="top">
-<h3>Spiking U-Net for Speech Enhancement</h3>
-<p align="center">Built an event-driven speech-enhancement model using Spiking Neural Networks and signal-processing techniques.</p>
-<p align="center"><b>Python · PyTorch · SNN · Signal Processing</b></p>
+
+<h3>🏛️ SevaSetu Telangana</h3>
+
+Multilingual citizen-services platform powered by AI,
+OCR, voice assistance and smart service discovery.
+
+<br>
+
+<b>Next.js · AI · OCR · Voice Assistant</b>
+
+<br><br>
+
+<a href="https://sevasetu-seven.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-C44E77?style=for-the-badge&logoColor=white">
+</a>
+
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" align="center" valign="top">
-<h3>SevaSetu Telangana</h3>
-<p align="center">Developed a multilingual citizen-services platform with AI assistance, OCR, voice interaction and service discovery.</p>
-<p align="center"><b>Next.js · React · Tailwind CSS · AI APIs · OCR</b></p>
-<p align="center"><a href="https://sevasetu-seven.vercel.app/"><img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D35D85?style=for-the-badge&logoColor=white" alt="View SevaSetu"></a></p>
+
+<h3>🏋️ CultFitNeo Gym</h3>
+
+Modern responsive fitness website featuring
+programs, trainers and membership information.
+
+<br>
+
+<b>React.js · HTML · CSS · JavaScript</b>
+
+<br><br>
+
+<a href="https://cultfitneo-gym.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-D66B91?style=for-the-badge&logoColor=white">
+</a>
+
 </td>
+
 <td width="50%" align="center" valign="top">
-<h3>SlayIt — Habit Tracking Application</h3>
-<p align="center">Created a full-stack habit-tracking platform with authentication, progress monitoring and AI-powered feedback.</p>
-<p align="center"><b>React · Spring Boot · MySQL · REST APIs</b></p>
-<p align="center"><a href="https://slayit-project.vercel.app/"><img src="https://img.shields.io/badge/▲_LIVE_DEMO-E48EAA?style=for-the-badge&logoColor=white" alt="SlayIt Live Demo"></a> <a href="https://github.com/rishikaKamani/slayit-project"><img src="https://img.shields.io/badge/▲_SOURCE_CODE-BD4770?style=for-the-badge&logo=github&logoColor=white" alt="SlayIt Source Code"></a></p>
+
+<h3>🪑 Saanvi Furniture</h3>
+
+Premium furniture showcase with elegant layouts,
+responsive product pages and clean UI.
+
+<br>
+
+<b>React.js · HTML · CSS · JavaScript</b>
+
+<br><br>
+
+<a href="https://saanvi-furniture.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-C44E77?style=for-the-badge&logoColor=white">
+</a>
+
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🦷 Aarogya Dental Clinic</h3>
+
+Healthcare website with appointment booking,
+service information and responsive design.
+
+<br>
+
+<b>React.js · HTML · CSS · JavaScript</b>
+
+<br><br>
+
+<a href="https://aarogya-dental-clinic-ivory.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-D66B91?style=for-the-badge&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🖼️ Shruthi Museum</h3>
+
+Interactive memory website featuring custom
+animations, storytelling and immersive visuals.
+
+<br>
+
+<b>React.js · HTML · CSS · JavaScript</b>
+
+<br><br>
+
+<a href="https://shruthi-museum.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-C44E77?style=for-the-badge&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
 <p align="center">
-  <b>More Projects:</b> Anusandhan · ECG QRS Detection · Theft Detection Using FPGA · CultFitNeo · Shruthi Museum · Saanvi Furniture
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%" alt="">
-</p>
+<h2 align="center">✦ Core Engineering Projects</h2>
 
-<h2 align="center">✦ Technical Toolkit</h2>
+<table width="100%">
 
-<h3 align="center">Electronics &amp; Hardware</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VHDL-F8DCE5?style=for-the-badge&logoColor=8A3D58" alt="VHDL">
-  <img src="https://img.shields.io/badge/VERILOG-F1BDCE?style=for-the-badge&logoColor=8A3D58" alt="Verilog">
-  <img src="https://img.shields.io/badge/FPGA-E991AC?style=for-the-badge&logoColor=white" alt="FPGA">
-  <img src="https://img.shields.io/badge/XILINX_ZC702-D35D85?style=for-the-badge&logoColor=white" alt="Xilinx ZC702">
-  <img src="https://img.shields.io/badge/RASPBERRY_PI-BD4770?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-</p>
-
-<p align="center">
-  Vivado Design Suite · Xilinx Vitis · Embedded Systems · Digital Electronics · Signal Processing
-</p>
-
-<h3 align="center">Programming &amp; Software</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,react,nextjs,html,css,tailwind,spring,mysql,postgres&theme=light" alt="Programming and Software Skills">
-</p>
-
-<h3 align="center">AI &amp; Development Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,postman,vscode,vercel&theme=light" alt="AI and Development Tools">
-</p>
-
-<p align="center">
-  Gemini API · OCR · Local Language Models · REST APIs
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%" alt="">
-</p>
-
-<h2 align="center">✦ Experience</h2>
-
-<table align="center" width="100%">
 <tr>
-<td width="24%" align="center" valign="middle"><b>2026–Present</b></td>
-<td width="76%" valign="middle"><b>Software Development Intern — Sarvaya Technologies</b><br>Building and testing responsive software products while working with deployment and version-control workflows.</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🩸 FPGA CNN Accelerator</h3>
+
+FPGA-based CNN architecture for leukemia cell
+classification using HDL and Vivado Design Suite.
+
+<br>
+
+<b>Verilog · FPGA · CNN · RTL Design</b>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>❤️ ECG QRS Detection</h3>
+
+Real-time ECG signal processing system for
+accurate QRS complex detection and analysis.
+
+<br>
+
+<b>MATLAB · DSP · ECG Processing · Signal Analysis</b>
+
+</td>
+
 </tr>
+
 <tr>
-<td width="24%" align="center" valign="middle"><b>June–July 2026</b></td>
-<td width="76%" valign="middle"><b>Intern — Bharat Electronics Limited</b><br>Worked with the Xilinx ZC702 board, VHDL and Vivado-based FPGA design workflows.</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🧠 Spiking U-Net</h3>
+
+Neuromorphic speech enhancement using Spiking
+Neural Networks and event-driven computation.
+
+<br>
+
+<b>Python · PyTorch · SNN · Speech Enhancement</b>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🤖 Anusandhan</h3>
+
+Offline AI companion powered by Raspberry Pi,
+local language models and voice interaction.
+
+<br>
+
+<b>Python · Raspberry Pi · LLMs · Speech AI</b>
+
+</td>
+
 </tr>
-<tr>
-<td width="24%" align="center" valign="middle"><b>May–July 2025</b></td>
-<td width="76%" valign="middle"><b>Tech Lead Intern — Swecha, VISWAM.AI</b><br>Coordinated a team of interns and supported technical planning and execution.</td>
-</tr>
-<tr>
-<td width="24%" align="center" valign="middle"><b>June 2025</b></td>
-<td width="76%" valign="middle"><b>Familiarization Programme Trainee — Airports Authority of India</b><br>Gained exposure to radar, communication systems and Air Traffic Control operations.</td>
-</tr>
+
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%">
+</p>
+
 
 <h2 align="center">✦ Research &amp; Recognition</h2>
 
