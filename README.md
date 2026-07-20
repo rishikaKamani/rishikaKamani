@@ -75,82 +75,59 @@
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 <h3>✨ SlayIt</h3>
 
-AI-powered habit tracking application with authentication,
-streak monitoring and intelligent productivity features.
+AI-powered habit tracking platform with authentication,
+progress tracking and productivity insights.
 
 <br>
 
-<b>React.js · Spring Boot · REST APIs</b>
+<b>React · Spring Boot · REST APIs</b>
 
-<br><br>
+<br>
 
 <a href="https://slayit-project.vercel.app/">
-<img src="https://img.shields.io/badge/▲_LIVE_DEMO-D66B91?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D85D8D?style=for-the-badge&labelColor=C94F78&color=D85D8D">
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 <h3>🏛️ SevaSetu Telangana</h3>
 
 Multilingual citizen-services platform powered by AI,
-OCR, voice assistance and smart service discovery.
+OCR and voice assistance.
 
 <br>
 
-<b>Next.js · AI · OCR · Voice Assistant</b>
+<b>Next.js · AI · OCR · Voice</b>
 
-<br><br>
+<br>
 
 <a href="https://sevasetu-seven.vercel.app/">
-<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-C44E77?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D85D8D?style=for-the-badge&labelColor=C94F78&color=D85D8D">
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 <h3>🏋️ CultFitNeo Gym</h3>
 
-Modern responsive fitness website featuring
-programs, trainers and membership information.
+Modern responsive gym website with membership,
+trainers and fitness programs.
 
 <br>
 
-<b>React.js · HTML · CSS · JavaScript</b>
+<b>React · HTML · CSS</b>
 
-<br><br>
+<br>
 
 <a href="https://cultfitneo-gym.vercel.app/">
-<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-D66B91?style=for-the-badge&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🪑 Saanvi Furniture</h3>
-
-Premium furniture showcase with elegant layouts,
-responsive product pages and clean UI.
-
-<br>
-
-<b>React.js · HTML · CSS · JavaScript</b>
-
-<br><br>
-
-<a href="https://saanvi-furniture.vercel.app/">
-<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-C44E77?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D85D8D?style=for-the-badge&labelColor=C94F78&color=D85D8D">
 </a>
 
 </td>
@@ -159,40 +136,59 @@ responsive product pages and clean UI.
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-<h3>🦷 Aarogya Dental Clinic</h3>
+<h3>🪑 Saanvi Furniture</h3>
 
-Healthcare website with appointment booking,
-service information and responsive design.
+Premium furniture showcase with elegant layouts
+and responsive product pages.
 
 <br>
 
-<b>React.js · HTML · CSS · JavaScript</b>
+<b>React · HTML · CSS</b>
 
-<br><br>
+<br>
 
-<a href="https://aarogya-dental-clinic-ivory.vercel.app/">
-<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-D66B91?style=for-the-badge&logoColor=white">
+<a href="https://saanvi-furniture.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D85D8D?style=for-the-badge&labelColor=C94F78&color=D85D8D">
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-<h3>🖼️ Shruthi Museum</h3>
+<h3>🦷 Aarogya Dental Clinic</h3>
 
-Interactive memory website featuring custom
-animations, storytelling and immersive visuals.
+Healthcare website featuring appointments,
+services and responsive design.
 
 <br>
 
-<b>React.js · HTML · CSS · JavaScript</b>
+<b>React · HTML · CSS</b>
 
-<br><br>
+<br>
+
+<a href="https://aarogya-dental-clinic-ivory.vercel.app/">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D85D8D?style=for-the-badge&labelColor=C94F78&color=D85D8D">
+</a>
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>🖼️ Shruthi Museum</h3>
+
+Interactive memory website with immersive
+storytelling and animations.
+
+<br>
+
+<b>React · HTML · CSS</b>
+
+<br>
 
 <a href="https://shruthi-museum.vercel.app/">
-<img src="https://img.shields.io/badge/▲_VISIT_WEBSITE-C44E77?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/▲_VIEW_PROJECT-D85D8D?style=for-the-badge&labelColor=C94F78&color=D85D8D">
 </a>
 
 </td>
@@ -274,11 +270,6 @@ local language models and voice interaction.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8DCE5,50:E991AC,100:C94F78&height=5" width="100%">
-</p>
-
 
 <h2 align="center">✦ Research &amp; Recognition</h2>
 
